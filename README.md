@@ -18,4 +18,7 @@ launch an online video rental service in order to stay competitive. The Rockbust
 ● Do sales figures vary between geographic regions?
 
 # Data
+Link to dataset: dvdrental.zip
 
+# Tableau Presentation of Data 
+Link to Tableau Visualization can be found here: https://public.tableau.com/views/Rockbuster_16830540603090/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
